@@ -12,6 +12,13 @@ Breast Cancer Wisconsin Dataset (Scikit-learn)
 
 ## Key Findings
 Logistic Regression performed slightly better, likely due to the linear relationships between the biological features in this specific dataset.
+### Visualizations
+
+#### Confusion Matrix
+![Confusion Matrix](Confusion_Matrix.png)
+
+#### Model Accuracy Comparison
+![Model Comparison](Model_Accuracy_comparison.png)
 
 ## Tools
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
